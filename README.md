@@ -15,16 +15,3 @@ Simple enough to understand. It will always display the top five streams, and _*
 > - Stream Expressions
 > - Stream Expression Score
 > - Everything else...
-
-## Example
-
-Movie 2160p BluRay REMUX DV HDR TrueHD Tier 4
-Movie 2160p WebDL        DV HDR Atmos  Tier 2
-Movie 2160p WebDL        HDR    FLAC   Tier 3
-Movie 1080p DVDRIP       SDR    AAC    Tier 1
-Movie 1080p DVDRIP       SDR    AAC    Tier 2
-
-In any case it will be the five best files available for a pristine watching experience. 
-
-
-
