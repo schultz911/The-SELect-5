@@ -16,7 +16,7 @@ Simple enough to understand. It will always display the top five streams, and _*
 > - Stream Expression Score
 > - Everything else...
 
-##How it works
+## How it works
 
 After all of the other selection and filtering, the sorting will place the highest resolution files, followed by the best quality, the DVs and HDRs, and the TrueHDs and Atmos files.
 
