@@ -1,6 +1,6 @@
 # The SELect 5
 
-**Custom SEL to use with TamTaro**
+## Custom SEL to use with TamTaro
 
 Simple enough to understand. It will always display the top five streams, and _**only**_ the top five streams, based on their resolution, then quality, then visual and audio tags, and finally the stream expression scores, after all of TamTaro's and Vidhin's marvelous handiwork.
 
@@ -16,6 +16,9 @@ Simple enough to understand. It will always display the top five streams, and _*
 > - Stream Expression Score
 > - Everything else...
 
+![Stream preview](./streampreview.png)
+
+## Formatter
 I have also shared my custom formatter if you're interested in that.
 
 ![Formatter preview](./formatterpreview.png)
